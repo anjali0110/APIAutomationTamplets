@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB2xAPIAutomation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.262">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_postCreateBooking"
+                time="5.262"
+                classname="com.thetestingacademy.tests.fullcrud.PostRequestTest">
+            </testcase>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB2xAPIAutomation"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.075">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_get2"
+                time="0.002"
+                classname="com.thetestingacademy.tests.fullcrud.GETRequestTest">
+            </testcase>
+            <testcase
+                name="test_get"
+                time="0.073"
+                classname="com.thetestingacademy.tests.fullcrud.GETRequestTest">
+            </testcase>
+</testsuite>
